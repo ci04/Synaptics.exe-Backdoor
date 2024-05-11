@@ -16,4 +16,7 @@ Open Registry Editior
 - Press Windows + R : %temp%
 - Remove Temp
 - Restart Power Computer
-- 🛡 Discord : A8Fit 
+# What Synaptics.exe ?
+- Synaptics.exe Trojan BackDoor
+- And infection in system files .
+- 🛡 Discord : A8Fit
