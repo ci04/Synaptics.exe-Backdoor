@@ -1,6 +1,6 @@
 # Synaptics.exe-Backdoor
 - How to Remove Malware "Synaptics.exe Backdoor" For Windows 10
-- Open : C:\ProgramData\Synaptics\Synaptics.exe InjUpdate
+- Open : C:\ProgramData\Synaptics\Synaptics.exe
 - You must go to folder settings and activate the visibility of hidden files
 - How To Show File Hidden ?
 - Open Explorer
@@ -16,3 +16,4 @@ Open Registry Editior
 - Press Windows + R : %temp%
 - Remove Temp
 - Restart Power Computer
+- 🛡 Discord : A8Fit 
