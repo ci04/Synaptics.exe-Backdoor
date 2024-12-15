@@ -25,4 +25,4 @@ Open Registry Editior
 # What Synaptics.exe ?
 - Synaptics.exe Trojan BackDoor
 - And infection in system files .
-- 🛡 Discord : A8Fit
+- 🛡 Discord : d5_p
